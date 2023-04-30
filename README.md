@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot of the webpage](./screenshot.jpeg)
 
 ### Links
-- [Github repository](https://github.com/EmmanuelAfrifa/landing-page)
-- [Deployed site](https://meetlanding.netlify.app/)
+- [Github repository](#)
+- [Deployed site](#)
 
 ## Process
 ### Tools Used
@@ -28,14 +28,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 ### What I learned
-I learned that it is useful to use Flexbox for the layout of the page since it allows for flexible position of elements in the page. Also with regards to the media queries, the code becomes fewer and easily understandable when you abstract all the code that is common to the various device sizes and only add the device-specific properties inside the media queries.
+I learned that it is useful to use Flexbox for the layout of the page since it allows for flexible position of elements in the page. 
 
 ## Author
 - Emmanuel Afrifa
-- [emmanuel.afrifa@amailtech.org](mailto:emmanuel.afrifa@amalitech.org)
+- [emmaquame9@gmail.com](mailto:emmaquame9@gmail.com)
+- [Frontend-Mentor](https://www.frontendmentor.io/profile/Emmanuel-Afrifa)
 - [Twitter](https://twitter.com/Emma33712365)
 - [Linkedin](https://www.linkedin.com/in/emmanuel-afrifa-840674214/)
 
 ## Acknowledgement
-- [AmaliTech Graduate Training Program](https://amalitech.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
