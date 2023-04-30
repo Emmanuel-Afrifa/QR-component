@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot of the webpage](./screenshot.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/QR-component#overview)
+- [Deployed site](https://qr-component-frontend.netlify.app/)
 
 ## Process
 ### Tools Used
